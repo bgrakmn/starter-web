@@ -7,7 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## GIT & GITHub Training
-This is the famous and one of the Best Training Course of DevOps
+ This is the famous and one of the Best Training Course of DevOps
+ Adding GIT Rebase Lectures in GIT Advance part.
 
 ##GIT Comparisons 
 Adding GIT Comparisons Lecture
