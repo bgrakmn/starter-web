@@ -21,4 +21,5 @@ Adding GIT Comparisons Lecture
 Fork the Repor and raise pull request for review
 
 ##GITHub Content
-Comparisons with Repo
+Adding GITT Comparisons Lecture.
+Adding new Lectures of Stash.
