@@ -2,7 +2,11 @@
 # The humans responsible & technology colophon
 
     Hi, I am modifiing the file before rebase.
+
     Doing some change in Local.
+    Adding import Notes on GIT Stash.
+
+
 # TEAM
 
     Anshul Thakur 
