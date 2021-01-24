@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Anshul Thakur <twitter>
+    Anshul Thakur 
+    anshulc55@gmail.com
+    DevOps Engineer
 
 # THANKS
 
@@ -13,4 +15,9 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+<<<<<<< HEAD
     Machine Learning, AWS, Google Cloud
+=======
+    Docker, Java Programming
+
+>>>>>>> develop
