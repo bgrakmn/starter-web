@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Hi, I am modifiing the file before rebase.
+
 # TEAM
 
     Anshul Thakur 
@@ -9,15 +11,13 @@
 
 # THANKS
 
-    <name>
+    Thanks to all my students.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
-<<<<<<< HEAD
     Machine Learning, AWS, Google Cloud
-=======
     Docker, Java Programming
 
->>>>>>> develop
+
