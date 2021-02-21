@@ -23,5 +23,5 @@
     jQuery, Modernizr, AJAX
     Machine Learning, AWS, Google Cloud
     Docker, Java Programming
-
+    AWS Solition Architext Developer 	
 
